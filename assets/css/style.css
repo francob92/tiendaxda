@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+nav {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  top: 0px;
+}
+
+.nav__p--style {
+  background-color: black;
+  color: white;
+  display: inline-block;
+  font-size: 2rem;
+  width: 4rem;
+  height: 5rem;
+  position: relative;
+  bottom: 0rem;
+}
+
+.nav__ul--style {
+  display: inline-block;
+  margin-left: 65%;
+}
+
+.nav__ul__li1--style {
+  position: absolute;
+  left: 60%;
+}
+
+.nav__ul__li2--style {
+  position: absolute;
+  left: 67%;
+}
+
+.nav__ul__li3--style {
+  position: absolute;
+  left: 75%;
+}
+
+.nav__ul__li4--style {
+  position: absolute;
+  left: 85%;
+}
+
+.nav__div--style {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  bottom: 2rem;
+}
+
+.main__div1--style {
+  position: relative;
+  margin-top: 6rem;
+  width: 8rem;
+  height: 5rem;
+  left: 3rem;
+}
+
+.main__div2--style {
+  position: absolute;
+  left: 30%;
+  top: 15%;
+}
+
+.main__div3--style {
+  position: absolute;
+  top: 87%;
+  height: 15rem;
+  width: 18rem;
+  left: 1%;
+  background-color: black;
+  color: white;
+}
+
+.main__div4--style {
+  margin-top: 20%;
+  margin-left: 20%;
+}
+
+.main__p--style {
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+  position: absolute;
+  top: 94%;
+  left: 26%;
+}
+
+/*# sourceMappingURL=style.css.map */

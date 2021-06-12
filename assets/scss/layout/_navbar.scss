@@ -1,0 +1,43 @@
+nav {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    top: 0px;
+}
+.nav__p--style {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    font-size: 2rem;
+    width: 4rem;
+    height: 5rem;
+    position: relative;
+    bottom: 0rem;
+}
+.nav__ul--style {
+    display: inline-block;
+    margin-left: 65%;   
+}
+.nav__ul__li1--style {
+   position: absolute;
+   left: 60%;
+}
+.nav__ul__li2--style {
+position: absolute;
+   left: 67%;
+}
+.nav__ul__li3--style {
+position: absolute;
+   left: 75%;
+}
+.nav__ul__li4--style {
+position: absolute;
+   left: 85%;
+}
+.nav__div--style {
+    width: 6rem;
+    height: 6rem;
+    position: relative;
+    bottom: 2rem;
+}
